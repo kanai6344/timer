@@ -9,7 +9,6 @@ A simple Pomodoro timer application for productivity. The timer alternates betwe
 - Start, pause, and reset functionality
 - Visual indication of current session type
 - Tracks completed work sessions
-- Responsive design
 
 
 ## Live Demo
