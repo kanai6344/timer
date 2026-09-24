@@ -21,7 +21,6 @@ You can view a live version of this tool at [(https://kanai6344.github.io/timer/
 2. Click "Start" to begin the timer
 3. Work until the timer completes (you'll hear a sound)
 4. Take a break during the break session
-5. The timer will automatically switch between work and break sessions
 
 
 ## Customization
